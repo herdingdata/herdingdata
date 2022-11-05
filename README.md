@@ -2,6 +2,8 @@
 
 My name is [Andy Herd](www.herdingdata.co.uk) (he/him/his). You can find me with the username [@herdingdata](www.twitter.com/herdingdata) in most places. I'm a software engineer specialising in databases and stuff. In other words, a data engineer. There's not much to see in this github profile because most of the projects I work on aren't publicly available.
 
+Where you can find me: https://linktr.ee/herdingdata
+
 Some stuff I get up to:
 - I'm a trustee of [Protect Earth](www.protect.earth). We plant trees to help fight climate change. We're a registered charity. You can help us with a [donation](www.protect.earth/donate).
 - I help to run the [Queer Code Scotland](https://www.meetup.com/qcscot/) meetup.
